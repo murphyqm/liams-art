@@ -1,0 +1,106 @@
+---
+title: "Liam's Art Portfolio"
+---
+
+![](images/liam-logo.png){fig-alt="The name Liam handwritten in black ink on a yellow background, with a small sketch of folder round-lens glasses." width=100%}
+
+
+An accessible, screen-reader and keyboard-navigation-friendly portfolio, for mobile and desktop devices. Click or tap an image to zoom.
+
+## Imagine More
+
+
+![](images/imagine_more.jpg){.lightbox .framed fig-alt="The name Liam handwritten in black ink on a yellow background, with a small sketch of folder round-lens glasses." width=100%}
+
+</br>
+</br>
+</br>
+
+![](images/up.jpg){.lightbox .framed-2 fig-alt="The name Liam handwritten in black ink on a yellow background, with a small sketch of folder round-lens glasses." width=50% fig-align="center"}
+
+</br>
+</br>
+</br>
+
+![](images/face-no-bg){.lightbox .framed-3 fig-alt="The name Liam handwritten in black ink on a yellow background, with a small sketch of folder round-lens glasses." width=60% fig-align="center"}
+
+</br>
+</br>
+</br>
+
+![](images/glasses-no-bg.png){.lightbox fig-alt="The name Liam handwritten in black ink on a yellow background, with a small sketch of folder round-lens glasses." width=100% fig-align="center"}
+
+:::{.column-screen}
+
+![](images/glasses.jpg){.lightbox .frame-noshadow fig-alt="The name Liam handwritten in black ink on a yellow background, with a small sketch of folder round-lens glasses."}
+
+:::
+
+</br>
+</br>
+</br>
+</br>
+
+
+![](images/happy.jpg){.lightbox .framed fig-alt="The name Liam handwritten in black ink on a yellow background, with a small sketch of folder round-lens glasses." width=100%}
+
+</br>
+</br>
+</br>
+
+::::::{.column-screen}
+:::::{.background-section}
+::::{.column-body}
+
+</br>
+</br>
+
+## Mapping {.center-heading}
+
+</br>
+
+![](images/map2.jpg){.lightbox .white-shadow fig-alt="The name Liam handwritten in black ink on a yellow background, with a small sketch of folder round-lens glasses." width=60% fig-align="center"}
+
+</br>
+</br>
+</br>
+
+![](images/map1.jpg){.lightbox .white-shadow fig-alt="The name Liam handwritten in black ink on a yellow background, with a small sketch of folder round-lens glasses." width=50% fig-align="center"}
+
+</br>
+</br>
+</br>
+
+::::
+:::::
+::::::
+
+</br>
+
+
+## Nature Patterns
+
+</br>
+
+![](images/night-sky.jpg){.lightbox .framed fig-alt="The name Liam handwritten in black ink on a yellow background, with a small sketch of folder round-lens glasses." width=45%}
+
+![](images/egg.jpg){.lightbox .framed-1 fig-alt="The name Liam handwritten in black ink on a yellow background, with a small sketch of folder round-lens glasses." width=40% fig-align="right"}
+
+</br>
+
+:::{.column-screen}
+
+![](images/rainbow.jpg){.lightbox .frame-noshadow fig-alt="The name Liam handwritten in black ink on a yellow background, with a small sketch of folder round-lens glasses."}
+
+:::
+
+</br>
+</br>
+</br>
+
+![](images/liam-logo.png){fig-alt="The name Liam handwritten in black ink on a yellow background, with a small sketch of folder round-lens glasses." width=100%}
+
+</br>
+</br>
+
+Copyright 2025, Liam Christopher Quinlan

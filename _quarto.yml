@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Liam's Art"
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+    toc: false
+
+
+
