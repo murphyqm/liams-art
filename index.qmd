@@ -33,7 +33,7 @@ An accessible, screen-reader and keyboard-navigation-friendly portfolio, for mob
 </br>
 </br>
 
-![](images/up.jpg){.lightbox .framed-2 fig-alt="A pencil drawing of a brown house being carried up into the sky by a huge bunch of colourful balloons. A man stands looking up at the house, with the text "Get away from my bird!" width=50% fig-align="center"}
+![](images/up.jpg){.lightbox .framed-2 fig-alt="A pencil drawing of a brown house being carried up into the sky by balloons. A man stands looking up at the house, with the text 'Get away from my bird!'" width=50% fig-align="center"}
 
 ::: {.column-margin}
 
