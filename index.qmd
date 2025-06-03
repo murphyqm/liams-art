@@ -159,7 +159,7 @@ An accessible, screen-reader and keyboard-navigation-friendly portfolio, for mob
 </br>
 </br>
 
-![](images/map3.png){fig-alt="A multicoloured map of Eastern Europe with countries coloured in brightly, and names of countries and capital cities marked on the map." width=100% fig-align="center"}
+![](images/map3.png){.lightbox fig-alt="A multicoloured map of Eastern Europe with countries coloured in brightly, and names of countries and capital cities marked on the map." width=100% fig-align="center"}
 
 </br>
 </br>
